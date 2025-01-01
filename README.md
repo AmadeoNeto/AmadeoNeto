@@ -1,7 +1,7 @@
-# Amadeo Neto 👾
-### Hello World!
-I'm Amadeo, a Computer Science student at the brazilian university UFPE.  
-Although I love developing games on Unity, I am currently studying other progamming areas.
+# Hello World! 👾
+I'm Amadeo, a Computer Science student at the Brazilian university UFPE.
 
-- 💻 I have some knowledge of C#, Python, game development with Unity and a bit of Java
-- 😄 I enjoy games, technology and learn new things
+### Experiences 
+* 🎮 Working with game engines to develop simulations, XR experiences, and (of course) games
+* 📈 Using AI models and performing data manipulation
+* 💻 Some experience maintaining web and desktops interfaces
